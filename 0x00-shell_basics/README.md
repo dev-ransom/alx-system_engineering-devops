@@ -19,8 +19,9 @@ And hidden files (starting with .)
 7-movethatfile - mv /tmp/ betty /tmp/my_first_directory
 * Move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdelete - rm /tmp/my_first_directory
-Delete the file betty.
+* Delete the file betty.
 
 The file betty is in /tmp/my_first_directory
-
+9-firstdirdeletion - rm -r /tmp/my_first_directory
+* Delete the directory my_first_directory that is in the /tmp directory
 
