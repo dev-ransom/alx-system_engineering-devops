@@ -53,4 +53,5 @@ Regular files should not be changed.
 * Write a script that changes the group owner to school for the file hello
 
 The file hello will be in the working directory
+100-change_owner_and_group - chown vincent:staff
 
