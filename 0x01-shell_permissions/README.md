@@ -32,5 +32,5 @@ Group: no permission at all
 Other users: all the permissions
 The file hello will be in the working directory You are not allowed to use commas for this script
 
-
+9-John_Doe - chmod 753 hello
 
