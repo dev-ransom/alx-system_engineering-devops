@@ -24,5 +24,13 @@ The file hello will be in the working directory
 * Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
 The file hello will be in the working directory
 You are not allowed to use commas for this script
-8-James_Bond - chmod o+rwx hello
+8-James_Bond - chmod 007 hello
+* Write a script that sets the permission to the file hello as follows:
+
+Owner: no permission at all
+Group: no permission at all
+Other users: all the permissions
+The file hello will be in the working directory You are not allowed to use commas for this script
+
+
 
