@@ -20,4 +20,9 @@ The file hello will be in the working directory
 * Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
 
 The file hello will be in the working directory
+7-everybody - chmod ugo+x hello
+* Write a script that adds execution permission to the owner, the group owner and the other users, to the file hello
+The file hello will be in the working directory
+You are not allowed to use commas for this script
+8-James_Bond - chmod o+rwx hello
 
