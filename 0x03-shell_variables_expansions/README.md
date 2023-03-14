@@ -4,3 +4,4 @@ shell initialization files,expansions, variables and alias
 
 Name: ls
 Value: rm *
+1-hello_you - echo "hello $USER"
